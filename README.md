@@ -1,3 +1,5 @@
 Kaan Bilgin - Bachelors Degree Projects
 
-To reach my progress journal consisting homeworks and projects, please click [here](https://kaanblgn.github.io/Bachelors-Degree/)
+- [Reduced Beam Section Design Using MATLAB] (RBS.pdf)
+
+- [Senior Design Project: Seismic Design of Steel Special Moment Frames] (Bilgink_Senior_Design_Project_Final.pdf)
